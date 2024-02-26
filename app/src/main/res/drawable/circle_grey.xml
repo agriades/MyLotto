@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding = "utf-8"?> <!--xml이에요!-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape = "oval"> <!--위에 shape xmlns http 어쩌고는 아마도 밑에 사용할 예약어 사용을 위한 라인.-->
+
+    <solid
+        android:color="#AAAAAA"/>
+
+    <size
+        android:width="44dp"
+        android:height="44dp"/>>
+</shape>
