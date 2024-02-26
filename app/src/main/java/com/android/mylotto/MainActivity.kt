@@ -10,6 +10,7 @@ import androidx.core.content.ContextCompat
 import androidx.core.view.isVisible
 import org.w3c.dom.Text
 
+//잘 바뀌나?
 class MainActivity : AppCompatActivity() {
 
     private val clearButton by lazy { findViewById<Button>(R.id.btn_clear) }
